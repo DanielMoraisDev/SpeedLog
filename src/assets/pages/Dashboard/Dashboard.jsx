@@ -1,5 +1,5 @@
 
-const Dashboard = () => {
+const Home = () => {
     return (
         <>
             <h1>Você tá logado irmão</h1>
@@ -7,4 +7,4 @@ const Dashboard = () => {
     )
 }
 
-export default Dashboard;
+export default Home;
